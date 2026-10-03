@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pydantic
+httpx
+python-dotenv
+mercadopago>=2.2.0
+pytest
